@@ -12,7 +12,7 @@
 
 ## About me
 
-I'm an AI-native founder. I build products that earn their keep and the tools I wished existed, bootstrapped and end to end. My focus right now is **Wend**, an AI relationship-intelligence graph, built under my studio **A14 Labs**.
+I'm an AI-native founder. I build products that earn their keep and the tools I wished existed, running as lean as possible. My focus right now is **Wend**, an AI relationship-intelligence graph, built under my studio **A14 Labs**.
 
 ## What I'm building
 
