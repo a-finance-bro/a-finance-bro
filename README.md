@@ -18,9 +18,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=a-finance-bro&type=svg&hide_border=true&background=0D1117&stroke=21262D&ring=C8A06A&fire=E8C285&currStreakNum=EEF1F8&currStreakLabel=C8A06A&sideNums=EEF1F8&sideLabels=9AA2B5&dates=5D6578&excludeDaysLabel=5D6578" alt="streak" width="88%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=a-finance-bro&bg_color=0d1117&color=eef1f8&line=c8a06a&point=e8c285&area=true&area_color=6f5a2e&hide_border=true&custom_title=Contribution%20activity" width="98%" alt="activity graph" />
+<img src="signals.svg" width="98%" alt="Contribution activity and streaks" />
 
 </div>
 
