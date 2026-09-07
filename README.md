@@ -26,6 +26,6 @@
 
 <div align="center">
 
-<a href="mailto:github@anshvasani.com"><img src="https://img.shields.io/badge/github@anshvasani.com-0d1117?style=for-the-badge&logo=gmail&logoColor=c8a06a" alt="Email" /></a>
+<a href="mailto:info@sentinelsec.org"><img src="https://img.shields.io/badge/info@sentinelsec.org-0d1117?style=for-the-badge&logo=gmail&logoColor=c8a06a" alt="Email" /></a>
 
 </div>
